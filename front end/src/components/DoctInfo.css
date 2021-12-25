@@ -1,0 +1,14 @@
+table{
+    font-weight: bold;
+}
+.cr{
+    width: 18rem;
+}
+.row{
+    justify-content: space-around;
+    margin-top: 10px !important;
+}
+.btnadd{
+    margin: 5px !important;
+    width: 20% !important;
+}

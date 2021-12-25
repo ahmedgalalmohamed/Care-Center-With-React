@@ -1,0 +1,13 @@
+.Badgepill{
+    position: absolute !important;
+    top: -5px;
+    right: -10px;
+    color: #198754 !important;
+}
+.Navusername{
+    background-color: #0d6efd !important;
+    color: white !important;
+    border-radius: 10px !important;
+    margin-left: 5px !important;
+    position: relative !important ;
+}

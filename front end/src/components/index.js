@@ -1,0 +1,11 @@
+export { default as Navigation } from "./Nav";
+export { default as Footer } from "./Footer";
+export { default as Home } from "./Home";
+export { default as DoctInfo } from "./DoctInfo";
+export { default as Contact } from "./Contact";
+export {default as SignUp} from "./SignUp";
+export {default as SignIn} from "./SignIn";
+export {default as Logout} from "./logout";
+export {default as DoctAss} from "./DoctAss";
+export {default as Profileusers} from "./Profileusers";
+export {default as Profiledoctor} from "./Profiledoctor";
